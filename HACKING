@@ -3,9 +3,25 @@ Contributing to [PROJECT]
 
 *Legal:* By contributing to [PROJECT], you agree to license your patch under
          the [PROJECT] Public Source License, which is available in the
-         COPYRIGHT file.You also agree with our CODE_OF_CONDUCT.
+         COPYRIGHT file.  You also agree with our CODE_OF_CONDUCT.
+
+         You also agree to the Developer Certificate of Origin, available in
+         the DCO file.
 
 Test your changes before submitting them, ensure your code style is consistent
 with the rest of the codebase.
 
 Before writing any change, open an issue to discuss the change.
+
+
+Creating a commit
+-----------------
+
+Sign-off every commits to show that you agree with the Developer Certificate of
+Origin, present in the DCO file.
+
+This can be achieved by adding the
+
+    Signed-off-by: ...
+
+In your commit message body.
