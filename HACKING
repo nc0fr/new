@@ -1,0 +1,11 @@
+Contributing to [PROJECT]
+=========================
+
+*Legal:* By contributing to [PROJECT], you agree to license your patch under
+         the [PROJECT] Public Source License, which is available in the
+         COPYRIGHT file.You also agree with our CODE_OF_CONDUCT.
+
+Test your changes before submitting them, ensure your code style is consistent
+with the rest of the codebase.
+
+Before writing any change, open an issue to discuss the change.
