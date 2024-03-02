@@ -1,33 +1,13 @@
-This file lists the various contributors to the project.  Anyone listed here
-remains the copyright holder of their contributions, and is listed here to
-acknowledge their work.
+# The official list of the project authors for copyright purposes.
 
-Both individuals and organizations may be listed here.  Either way, we require
-using the full legal name of the contributor, and not any pseudonyms or
-abbreviations.  We also ask to include all the EMail addresses used to commit
-patches, each within angle brackets.
-
-If you are a contributor and would like to be removed from this list, please
-contact the project maintainers.
-
-When adding a new entry, please keep the list sorted by the first name, this
-may be easily achieved using the sort command on UNIX systems.
-
-For illustration:
-
-John Doe <john@doe.com>
-Acme Corporation <usr1@ac.me> <usr2@ac.me>
-
-ALL CONTRIBUTORS LISTED BELOW HAVE AGREED TO THE PROJECT LICENSE AGREEMENT
-AVAILABLE IN THE COPYRIGHT FILE.  THEY HAVE ALSO AGREED WITH THE DEVELOPER
-CERTIFICATE OF ORIGIN (DCO) AVAILABLE IN THE DCO FILE.  BY CONTRIBUTING TO THE
-PROJECT, THEY HAVE AGREED TO THE TERMS OUTLINED IN BOTH FILES.
-
-IN ADDITION, THEY HAVE AGREED WITH OUR CODE OF CONDUCT AVAILABLE IN THE
-CODE_OF_CONDUCT FILE.
-
-
-                                      ***
-
+# Names should be listed using the full name (no pseudonyms and anonymous
+# contributions, sorry), followed by an Email address in angle brackets.
+# The full name may be an organization, in which case the Email address is
+# not necessary.
+#
+# For example:
+#
+#     John Doe <john@doe.com>
+#     Acme Corporation Ltd.
 
 Nicolas Paul <n@nc0.fr>
