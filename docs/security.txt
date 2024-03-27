@@ -20,11 +20,7 @@ whenever possible.
 
    Contact Information
 
-For non-sensitive security issues, you may open a ticket using GitHub Issues
-at:
-
-    https://github.com/nc0fr/PROJECT/issues
-
+For non-sensitive security issues, you may open a ticket using GitHub Issues.
 For everything else, we prefer private communications if possible.
 You can contact maintainers at:
 
