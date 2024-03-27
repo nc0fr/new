@@ -22,6 +22,10 @@ updates:
     directory: /
     schedule:
       interval: monthly
+    groups:
+      github-actions:
+        patterns:
+          - "*"
     open-pull-requests-limit: 5
   - package-ecosystem: gitsubmodule
     directory: /
@@ -32,9 +36,17 @@ updates:
     directory: /
     schedule:
       interval: monthly
+    groups:
+      docker:
+        patterns:
+          - "*"
     open-pull-requests-limit: 10
   - package-ecosystem: devcontainers
     directory: /
     schedule:
       interval: monthly
+    groups:
+      devcontainers:
+        patterns:
+          - "*"
     open-pull-requests-limit: 5
