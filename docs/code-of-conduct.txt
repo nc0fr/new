@@ -45,7 +45,7 @@ issues, please contact the dedicated team or maintainers of the project.
 You can contact the team at:
 
   *  Nicolas Paul via Email at <n@nc0.fr> with PGP https://nc0.fr/pgp.txt,
-                      or on 𝕏 at https://x.com/@nc0dotfr.
+                      or on 𝕏 at https://x.com/_nc0fr.
 
 The team will review and investigate all complaints equally and fairly, in a
 timely manner.  Details and enforcement actions may be communicated publicly
